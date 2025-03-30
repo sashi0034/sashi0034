@@ -5,7 +5,7 @@
    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=sashi0034&theme=onedark" />
 </p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashi0034&layout=compact&theme=onedark
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashi0034&layout=compact&theme=onedark&langs_count=50
 )](https://github.com/anuraghazra/github-readme-stats)
 
 - [Monad Tachyon](https://store.steampowered.com/app/3328960/Monad_Tachyon/)
