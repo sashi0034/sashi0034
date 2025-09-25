@@ -5,11 +5,20 @@
    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=sashi0034&theme=onedark" />
 </p> -->
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashi0034&layout=compact&theme=onedark&langs_count=20&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
-- [Monad Tachyon](https://store.steampowered.com/app/3328960/Monad_Tachyon/)
+![sashi2024_animation](https://github.com/user-attachments/assets/ee2fcda6-1771-4916-aa1e-cb3dc260a428)
+-->
 
-- [Mutable 50](https://store.steampowered.com/app/3147480/Mutable_50/)
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashi0034&layout=compact&theme=onedark&langs_count=20&card_width=400" />
+  </a>
+  <a href="https://sashi0034.github.io/" target="_blank">
+     <img src="https://github.com/user-attachments/assets/ee2fcda6-1771-4916-aa1e-cb3dc260a428" width="80" />
+   </a>
+</p>
 
 <!-- <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashi0034&layout=compact&show_icons=true&theme=onedark" />
