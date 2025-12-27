@@ -20,7 +20,11 @@
   <img src="https://github.com/user-attachments/assets/ee2fcda6-1771-4916-aa1e-cb3dc260a428" width="80" />
 </a>
 
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashi0034&layout=compact&theme=onedark&langs_count=20&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+最近 github-readme-stats の調子が悪いので、改善されるまで以下で代用する。
+-->
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sashi0034&layout=compact&theme=onedark&langs_count=20&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashi0034&layout=compact&show_icons=true&theme=onedark" />
